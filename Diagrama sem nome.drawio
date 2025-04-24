@@ -1,83 +1,138 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
-    <mxGraphModel dx="5290" dy="929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="8260" dy="2477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="WQziicTxQeGtpVNXPFm_-55" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;GABINETE DA SEDEC&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CC6600;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-1850" y="10" width="200" height="90" as="geometry" />
+          <mxGeometry x="-2160" y="10" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-56" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="WQziicTxQeGtpVNXPFm_-55">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1749" y="690" as="sourcePoint" />
-            <mxPoint x="-1538" y="596" as="targetPoint" />
+            <mxPoint x="-2061" y="550" as="sourcePoint" />
+            <mxPoint x="-1849" y="596" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-57" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;CHEFIA DE GABINETE&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CC6600;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-2010" y="120" width="161" height="80" as="geometry" />
+          <mxGeometry x="-2321" y="108" width="161" height="82" as="geometry" />
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-58" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WQziicTxQeGtpVNXPFm_-57">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1791" y="160" as="sourcePoint" />
-            <mxPoint x="-1750" y="160" as="targetPoint" />
+            <mxPoint x="-2102" y="160" as="sourcePoint" />
+            <mxPoint x="-2060" y="149" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-59" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;CRVD&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137, #dadaff);strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-2100" y="210" width="161" height="80" as="geometry" />
+          <mxGeometry x="-2411" y="199" width="161" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WQziicTxQeGtpVNXPFm_-60" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="WQziicTxQeGtpVNXPFm_-59">
+        <mxCell id="WQziicTxQeGtpVNXPFm_-60" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WQziicTxQeGtpVNXPFm_-57" target="WQziicTxQeGtpVNXPFm_-59">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1969.4999999999998" y="200" as="sourcePoint" />
-            <mxPoint x="-1651" y="170" as="targetPoint" />
+            <mxPoint x="-2280.5" y="188" as="sourcePoint" />
+            <mxPoint x="-1962" y="158" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-63" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Assessoria Especial&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137, #dadaff);strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-1720" y="460" width="161" height="80" as="geometry" />
+          <mxGeometry x="-2304" y="397" width="161" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-64" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Assessoria Jurídica&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137, #dadaff);strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-1720" y="548" width="161" height="80" as="geometry" />
+          <mxGeometry x="-2304" y="487" width="161" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-65" value="&lt;font style=&quot;font-size: 17px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;&quot;&gt;Assessoria de Tecnologia da Informação e Inovação&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137, #dadaff);strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-2180" y="1110" width="161" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="WQziicTxQeGtpVNXPFm_-66" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Assessoria de Relações Institucionais&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137, #dadaff);strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-2180" y="900" width="161" height="80" as="geometry" />
+          <mxGeometry x="-3117" y="448" width="161" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-67" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Assessoria de Comunicação Social&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137, #dadaff);strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-1500" y="960" width="161" height="80" as="geometry" />
+          <mxGeometry x="-1991" y="587" width="161" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-68" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Assessoria de Relações Governamentais&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137, #dadaff);strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-1970" y="1080" width="161" height="80" as="geometry" />
+          <mxGeometry x="-2304" y="587" width="161" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WQziicTxQeGtpVNXPFm_-69" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Assessoria de Relações Governamentais&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137, #dadaff);strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-1500" y="1140" width="161" height="80" as="geometry" />
+        <mxCell id="WQziicTxQeGtpVNXPFm_-69" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Coordenadoria Parlamentar no Rio de Janeiro&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137, #dadaff);strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-2431" y="677" width="161" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-70" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Ouvidoria-Geral&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137, #dadaff);strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-1920" y="210" width="161" height="80" as="geometry" />
+          <mxGeometry x="-2231" y="199" width="161" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WQziicTxQeGtpVNXPFm_-71" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="WQziicTxQeGtpVNXPFm_-70">
+        <mxCell id="WQziicTxQeGtpVNXPFm_-71" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WQziicTxQeGtpVNXPFm_-57" target="WQziicTxQeGtpVNXPFm_-70">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1889.5" y="200" as="sourcePoint" />
-            <mxPoint x="-1840" y="211" as="targetPoint" />
+            <mxPoint x="-2200.5" y="188" as="sourcePoint" />
+            <mxPoint x="-2151" y="199" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-72" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Controladoria&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137, #dadaff);strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-1720" y="640" width="161" height="80" as="geometry" />
+          <mxGeometry x="-1991" y="397" width="161" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-73" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Corregedoria-Geral&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137, #dadaff);strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-1720" y="730" width="161" height="80" as="geometry" />
+          <mxGeometry x="-1991" y="487" width="161" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-74" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2260" y="320" as="sourcePoint" />
-            <mxPoint x="-1240" y="320" as="targetPoint" />
+            <mxPoint x="-2600" y="320" as="sourcePoint" />
+            <mxPoint x="-1551" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-75" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;SUBSECRETARIA DE GESTÃO ADMINISTRATIVA&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CC6600;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-2510" y="410" width="210" height="80" as="geometry" />
+          <mxGeometry x="-3047" y="340" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-76" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;SUBSECRETARIA DE GESTÃO OPERACIONAL&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CC6600;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-2510" y="500" width="210" height="80" as="geometry" />
+          <mxGeometry x="-1601" y="360" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WQziicTxQeGtpVNXPFm_-77" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Coordenadoria de Relações Institucionais&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137, #dadaff);strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-1881" y="687" width="161" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WQziicTxQeGtpVNXPFm_-79" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Coordenadoria Parlamentar em Brasília&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137, #dadaff);strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-2181" y="677" width="161" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WQziicTxQeGtpVNXPFm_-80" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="WQziicTxQeGtpVNXPFm_-69">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2223.5" y="717" as="sourcePoint" />
+            <mxPoint x="-2270" y="767" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WQziicTxQeGtpVNXPFm_-82" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WQziicTxQeGtpVNXPFm_-68">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2213" y="677" as="sourcePoint" />
+            <mxPoint x="-2181" y="717" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-2223" y="717" />
+              <mxPoint x="-2181" y="717" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WQziicTxQeGtpVNXPFm_-83" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2223" y="807" as="sourcePoint" />
+            <mxPoint x="-2223" y="717" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WQziicTxQeGtpVNXPFm_-84" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Coordenadoria de Assuntos Legislativos&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137, #dadaff);strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-2431" y="767" width="161" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WQziicTxQeGtpVNXPFm_-85" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="WQziicTxQeGtpVNXPFm_-84">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2221" y="807" as="sourcePoint" />
+            <mxPoint x="-2381" y="717" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WQziicTxQeGtpVNXPFm_-86" value="&lt;font style=&quot;font-size: 17px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;&quot;&gt;Assessoria de Planejamento de Orçamento&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137, #dadaff);strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-3297" y="448" width="161" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WQziicTxQeGtpVNXPFm_-87" value="&lt;font style=&quot;font-size: 17px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;&quot;&gt;Superintendência Administrativa&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137, #dadaff);strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-2937" y="450" width="161" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WQziicTxQeGtpVNXPFm_-88" value="&lt;font style=&quot;font-size: 17px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;&quot;&gt;Superintendência de Saúde&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137, #dadaff);strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-2757" y="448" width="161" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WQziicTxQeGtpVNXPFm_-89" value="&lt;font style=&quot;font-size: 17px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;&quot;&gt;Diretoria-Geral de Administração e Finanças&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137, #dadaff);strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-2967" y="540" width="161" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WQziicTxQeGtpVNXPFm_-90" value="&lt;font style=&quot;font-size: 17px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;&quot;&gt;Diretoria-Geral de Engenharia Arquitetura e Obras&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137, #dadaff);strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-2967" y="630" width="161" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WQziicTxQeGtpVNXPFm_-91" value="&lt;font style=&quot;font-size: 17px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;&quot;&gt;Centro de Terapia e Acolhimento Familiar para TEA&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137, #dadaff);strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-2787" y="540" width="161" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WQziicTxQeGtpVNXPFm_-92" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span&gt;&lt;b&gt;CORPO DE BOMBEIROS MILITAR DO ESTADO DO RIO DE JANEIRO&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;strokeColor=#FFFFFF;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="-3496" y="340" width="210" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
