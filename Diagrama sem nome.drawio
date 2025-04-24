@@ -1,22 +1,67 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
-    <mxGraphModel dx="13014" dy="4953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5884" dy="1238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WQziicTxQeGtpVNXPFm_-156" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WQziicTxQeGtpVNXPFm_-55" target="WQziicTxQeGtpVNXPFm_-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WQziicTxQeGtpVNXPFm_-157" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="WQziicTxQeGtpVNXPFm_-55" target="WQziicTxQeGtpVNXPFm_-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WQziicTxQeGtpVNXPFm_-158" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="WQziicTxQeGtpVNXPFm_-55" target="WQziicTxQeGtpVNXPFm_-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WQziicTxQeGtpVNXPFm_-159" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WQziicTxQeGtpVNXPFm_-55" target="WQziicTxQeGtpVNXPFm_-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WQziicTxQeGtpVNXPFm_-160" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WQziicTxQeGtpVNXPFm_-55" target="WQziicTxQeGtpVNXPFm_-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WQziicTxQeGtpVNXPFm_-162" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WQziicTxQeGtpVNXPFm_-55" target="WQziicTxQeGtpVNXPFm_-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WQziicTxQeGtpVNXPFm_-163" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WQziicTxQeGtpVNXPFm_-55" target="WQziicTxQeGtpVNXPFm_-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WQziicTxQeGtpVNXPFm_-165" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WQziicTxQeGtpVNXPFm_-55" target="WQziicTxQeGtpVNXPFm_-75">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2439" y="320" />
+              <mxPoint x="-3069" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WQziicTxQeGtpVNXPFm_-166" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WQziicTxQeGtpVNXPFm_-55" target="WQziicTxQeGtpVNXPFm_-76">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2439" y="320" />
+              <mxPoint x="-1305" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WQziicTxQeGtpVNXPFm_-167" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WQziicTxQeGtpVNXPFm_-55" target="WQziicTxQeGtpVNXPFm_-92">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2439" y="320" />
+              <mxPoint x="-3391" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-55" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;GABINETE DA SEDEC&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CC6600;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-2522" y="11" width="200" height="90" as="geometry" />
+          <mxGeometry x="-2539" y="30" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-57" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;CHEFIA DE GABINETE&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CC6600;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-2683" y="109" width="161" height="82" as="geometry" />
+          <mxGeometry x="-2700" y="128" width="161" height="82" as="geometry" />
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-59" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;CRVD&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#B3B3B3,#DADAFF);strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-2773" y="200" width="161" height="80" as="geometry" />
+          <mxGeometry x="-2790" y="219" width="161" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-60" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WQziicTxQeGtpVNXPFm_-57" target="WQziicTxQeGtpVNXPFm_-59">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2642.5" y="189" as="sourcePoint" />
-            <mxPoint x="-2324" y="159" as="targetPoint" />
+            <mxPoint x="-2659.5" y="208" as="sourcePoint" />
+            <mxPoint x="-2341" y="178" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-63" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Assessoria Especial&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#B3B3B3,#DADAFF);strokeColor=#FFFFFF;" vertex="1" parent="1">
@@ -28,6 +73,9 @@
         <mxCell id="WQziicTxQeGtpVNXPFm_-65" value="&lt;font style=&quot;font-size: 17px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;&quot;&gt;Assessoria de Tecnologia da Informação e Inovação&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137,#DADAFF);strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-3244" y="448" width="161" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="WQziicTxQeGtpVNXPFm_-164" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WQziicTxQeGtpVNXPFm_-67" target="WQziicTxQeGtpVNXPFm_-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-67" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Assessoria de Comunicação Social&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#B3B3B3,#DADAFF);strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-2360" y="638" width="161" height="80" as="geometry" />
         </mxCell>
@@ -38,12 +86,12 @@
           <mxGeometry x="-2800" y="728" width="161" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-70" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Ouvidoria-Geral&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#B3B3B3,#DADAFF);strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-2593" y="200" width="161" height="80" as="geometry" />
+          <mxGeometry x="-2610" y="219" width="161" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-71" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WQziicTxQeGtpVNXPFm_-57" target="WQziicTxQeGtpVNXPFm_-70">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2562.5" y="189" as="sourcePoint" />
-            <mxPoint x="-2513" y="200" as="targetPoint" />
+            <mxPoint x="-2579.5" y="208" as="sourcePoint" />
+            <mxPoint x="-2530" y="219" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-72" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Controladoria&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#B3B3B3,#DADAFF);strokeColor=#FFFFFF;" vertex="1" parent="1">
@@ -52,8 +100,53 @@
         <mxCell id="WQziicTxQeGtpVNXPFm_-73" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Corregedoria-Geral&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#B3B3B3,#DADAFF);strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-2360" y="538" width="161" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="WQziicTxQeGtpVNXPFm_-169" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WQziicTxQeGtpVNXPFm_-75" target="WQziicTxQeGtpVNXPFm_-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WQziicTxQeGtpVNXPFm_-170" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WQziicTxQeGtpVNXPFm_-75" target="WQziicTxQeGtpVNXPFm_-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WQziicTxQeGtpVNXPFm_-171" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WQziicTxQeGtpVNXPFm_-75" target="WQziicTxQeGtpVNXPFm_-88">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-3069" y="440" />
+              <mxPoint x="-2803" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WQziicTxQeGtpVNXPFm_-173" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3174" y="440" as="sourcePoint" />
+            <mxPoint x="-3343.5" y="508" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-75" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;SUBSECRETARIA DE GESTÃO ADMINISTRATIVA&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CC6600;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-3174" y="340" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WQziicTxQeGtpVNXPFm_-175" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WQziicTxQeGtpVNXPFm_-76" target="WQziicTxQeGtpVNXPFm_-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WQziicTxQeGtpVNXPFm_-176" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WQziicTxQeGtpVNXPFm_-76" target="WQziicTxQeGtpVNXPFm_-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WQziicTxQeGtpVNXPFm_-177" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WQziicTxQeGtpVNXPFm_-76" target="WQziicTxQeGtpVNXPFm_-98">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1305" y="450" />
+              <mxPoint x="-1662" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WQziicTxQeGtpVNXPFm_-178" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WQziicTxQeGtpVNXPFm_-76" target="WQziicTxQeGtpVNXPFm_-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WQziicTxQeGtpVNXPFm_-181" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WQziicTxQeGtpVNXPFm_-76" target="WQziicTxQeGtpVNXPFm_-97">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1305" y="450" />
+              <mxPoint x="-939" y="450" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-76" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;SUBSECRETARIA DE GESTÃO OPERACIONAL&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CC6600;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-1410" y="340" width="210" height="80" as="geometry" />
@@ -117,85 +210,132 @@
           <mxGeometry x="-3496" y="340" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-93" value="&lt;font style=&quot;font-size: 17px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;&quot;&gt;Assessoria Administrativa&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137, #dadaff);strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-1923" y="448" width="161" height="80" as="geometry" />
+          <mxGeometry x="-1923" y="477" width="161" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-94" value="&lt;font style=&quot;font-size: 17px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;&quot;&gt;Assessoria-Geral&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137,#DADAFF);strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-2103" y="448" width="161" height="80" as="geometry" />
+          <mxGeometry x="-2103" y="477" width="161" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-95" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Assessoria de Projetos&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137, #dadaff);strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-1567" y="448" width="161" height="80" as="geometry" />
+          <mxGeometry x="-1567" y="477" width="161" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-96" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Assessoria de Relações Internacionais&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137, #dadaff);strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-1200" y="448" width="161" height="80" as="geometry" />
+          <mxGeometry x="-1200" y="477" width="161" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-97" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Assessoria Estratégica de Integração Institucional&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137, #dadaff);strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-1020" y="448" width="161" height="80" as="geometry" />
+          <mxGeometry x="-1020" y="477" width="161" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-98" value="&lt;font style=&quot;font-size: 17px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;&quot;&gt;Assessoria Executiva&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137, #dadaff);strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-1743" y="450" width="161" height="80" as="geometry" />
+          <mxGeometry x="-1743" y="479" width="161" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-99" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Coordenadoria de Recebimento e Distribuição&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137, #dadaff);strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-841.75" y="448" width="161" height="80" as="geometry" />
+          <mxGeometry x="-841.75" y="477" width="161" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-100" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Coordenadoria do PROEISBM&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137, #dadaff);strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-664" y="448" width="161" height="80" as="geometry" />
+          <mxGeometry x="-664" y="477" width="161" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WQziicTxQeGtpVNXPFm_-179" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WQziicTxQeGtpVNXPFm_-103" target="WQziicTxQeGtpVNXPFm_-106">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-103" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Superintendência Operacional&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137, #dadaff);strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-1385.5" y="448" width="161" height="80" as="geometry" />
+          <mxGeometry x="-1385.5" y="477" width="161" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-104" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span&gt;&lt;b&gt;Coordenação Especial para Assuntos Ambientais e de Cidades Resilientes&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137, #dadaff);strokeColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-1660" y="557" width="161" height="80" as="geometry" />
+          <mxGeometry x="-1744" y="614" width="161" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-105" value="&lt;font style=&quot;font-size: 17px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;&quot;&gt;CEMADEN&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137,#DADAFF);strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-1840" y="557" width="161" height="80" as="geometry" />
+          <mxGeometry x="-1924" y="614" width="161" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-106" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Diretoria-Geral de Defesa Civil&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137, #dadaff);strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-1300" y="558" width="161" height="80" as="geometry" />
+          <mxGeometry x="-1384" y="615" width="161" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-107" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Diretoria-Geral de Ações Comunitárias&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137, #dadaff);strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-1120" y="558" width="161" height="80" as="geometry" />
+          <mxGeometry x="-1204" y="615" width="161" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-108" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Diretoria-Geral das Regionais de Defesa Civil&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137, #dadaff);strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-770" y="558" width="161" height="80" as="geometry" />
+          <mxGeometry x="-779" y="615" width="161" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-109" value="&lt;font style=&quot;font-size: 17px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;&quot;&gt;Instituto Científico e Tecnológico de Defesa Civil&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137, #dadaff);strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-1480" y="558" width="161" height="80" as="geometry" />
+          <mxGeometry x="-1564" y="615" width="161" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-113" value="&lt;font style=&quot;font-size: 17px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;&quot;&gt;Escola de Defesa Civil&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137,#DADAFF);strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-1520" y="660" width="161" height="80" as="geometry" />
+          <mxGeometry x="-1604" y="717" width="161" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-114" value="&lt;font style=&quot;font-size: 17px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;&quot;&gt;Centro de Estudos e Pesquisas em Defesa Civil&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137,#DADAFF);strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-1520" y="750" width="161" height="80" as="geometry" />
+          <mxGeometry x="-1636" y="807" width="161" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-115" value="&lt;font style=&quot;font-size: 17px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;&quot;&gt;Centro Estadual de Gestão de Desastres&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137,#DADAFF);strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-1330" y="660" width="161" height="80" as="geometry" />
+          <mxGeometry x="-1414" y="717" width="161" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-116" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;Centro Estadual de Gerenciamento de Emergência Nuclear&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137,#DADAFF);strokeColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-1330" y="750" width="161" height="80" as="geometry" />
+          <mxGeometry x="-1446" y="807" width="161" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-117" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;Centro de Coordenação e Controle de Emergência Nuclear&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137,#DADAFF);strokeColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-1330" y="840" width="161" height="80" as="geometry" />
+          <mxGeometry x="-1446" y="897" width="161" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-118" value="&lt;font style=&quot;font-size: 17px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;&quot;&gt;Posto Central de Ajuda Humanitária&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137,#DADAFF);strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-1330" y="930" width="161" height="80" as="geometry" />
+          <mxGeometry x="-1446" y="987" width="161" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-119" value="&lt;font style=&quot;font-size: 17px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;&quot;&gt;Coordenadoria de Apoio à Medicina Legal&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137,#DADAFF);strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-1139" y="658" width="161" height="80" as="geometry" />
+          <mxGeometry x="-1223" y="715" width="161" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-120" value="&lt;b style=&quot;color: rgb(255, 255, 255); font-size: 17px;&quot;&gt;Diretoria Regional de Defesa Civil 2&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137, #dadaff);strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-764.5" y="660" width="161" height="80" as="geometry" />
+          <mxGeometry x="-773.5" y="717" width="161" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-121" value="&lt;b style=&quot;color: rgb(255, 255, 255); font-size: 17px;&quot;&gt;Diretoria Regional de Defesa Civil 3&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137, #dadaff);strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-584.5" y="660" width="161" height="80" as="geometry" />
+          <mxGeometry x="-593.5" y="717" width="161" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-122" value="&lt;b style=&quot;color: rgb(255, 255, 255); font-size: 17px;&quot;&gt;Diretoria Regional de Defesa Civil 4&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137, #dadaff);strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-406.25" y="660" width="161" height="80" as="geometry" />
+          <mxGeometry x="-415.25" y="717" width="161" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-123" value="&lt;b style=&quot;color: rgb(255, 255, 255); font-size: 17px;&quot;&gt;Diretoria Regional de Defesa Civil 5&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137, #dadaff);strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-228.5" y="660" width="161" height="80" as="geometry" />
+          <mxGeometry x="-237.5" y="717" width="161" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WQziicTxQeGtpVNXPFm_-124" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Diretoria Regional de Defesa Civil 1&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137, #dadaff);strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-950" y="660" width="161" height="80" as="geometry" />
+          <mxGeometry x="-959" y="717" width="161" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WQziicTxQeGtpVNXPFm_-125" value="&lt;font style=&quot;font-size: 17px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;&quot;&gt;Regional de Defesa Civil Capital&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137,#DADAFF);strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-990" y="807" width="161" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WQziicTxQeGtpVNXPFm_-126" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;Regional de Defesa Civil Baixada Fluminense&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137,#DADAFF);strokeColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-990" y="897" width="161" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WQziicTxQeGtpVNXPFm_-130" value="&lt;font style=&quot;font-size: 17px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;&quot;&gt;Regional de Defesa Civil Metropolitana&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137,#DADAFF);strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="807" width="161" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WQziicTxQeGtpVNXPFm_-131" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;Regional de Defesa Civil Baixada Litorânea&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137,#DADAFF);strokeColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="897" width="161" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WQziicTxQeGtpVNXPFm_-132" value="&lt;font style=&quot;font-size: 17px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;&quot;&gt;Regional de Defesa Civil Costa Verde&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137,#DADAFF);strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-618" y="807" width="161" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WQziicTxQeGtpVNXPFm_-133" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;Regional de Defesa Civil Sul I&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137,#DADAFF);strokeColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-618" y="897" width="161" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WQziicTxQeGtpVNXPFm_-134" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;Regional de Defesa Civil Sul II&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137,#DADAFF);strokeColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-618" y="987" width="161" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WQziicTxQeGtpVNXPFm_-135" value="&lt;font style=&quot;font-size: 17px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;&quot;&gt;Regional de Defesa Civil Serrana I&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137,#DADAFF);strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-432.5" y="807" width="161" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WQziicTxQeGtpVNXPFm_-136" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;Regional de Defesa Civil Serrana II&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137,#DADAFF);strokeColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-432.5" y="897" width="161" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WQziicTxQeGtpVNXPFm_-137" value="&lt;font style=&quot;font-size: 17px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;&quot;&gt;Regional de Defesa Civil Norte&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137,#DADAFF);strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-254.25" y="807" width="161" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WQziicTxQeGtpVNXPFm_-138" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;Regional de Defesa Civil Noroeste&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#010137,#DADAFF);strokeColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-254.25" y="897" width="161" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WQziicTxQeGtpVNXPFm_-140" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=light-dark(#B3B3B3,#DADAFF);resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeColor=#FFFFFF;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2361.5" y="478" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WQziicTxQeGtpVNXPFm_-180" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.491;entryY=0.438;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WQziicTxQeGtpVNXPFm_-103" target="WQziicTxQeGtpVNXPFm_-108">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1305" y="590" />
+              <mxPoint x="-700" y="590" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
